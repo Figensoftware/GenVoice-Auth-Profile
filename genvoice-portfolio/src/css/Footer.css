@@ -1,0 +1,28 @@
+.footer {
+    background: linear-gradient(185deg, #23a6d5, #23d5ab);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.links {
+    margin-bottom: 10px;
+}
+
+.footer-link {
+    padding: 10px;
+    text-decoration: none;
+    color: #F5EBE0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.footer-link:hover {
+    color: #db719a;
+}
+
+.copyright {
+    color: #336b5e;
+}
